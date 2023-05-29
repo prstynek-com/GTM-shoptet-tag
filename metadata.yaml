@@ -15,5 +15,5 @@
 homepage: "https://prstynek.com"
 documentation: "https://prstynek.com/terms"
 versions:
-  - sha:
+  - sha: 99f01e28462542704776ade8f2189b936f390443
     changeNotes: Initial Version
